@@ -1,10 +1,10 @@
 <div align="center">
   <h1>Hi, I'm Sanjana Maity 👋</h1>
-  <p><strong>DevOps & Cloud Practitioner | Kubernetes | AWS</strong></p>
+  <p><strong>Cloud & DevOps Engineer</strong></p>
   <p>Automating build-to-deploy workflows, containerizing applications, and orchestrating clusters on the cloud.</p>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjana-maity)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjanamaity0020@gmail.com)
 </div>
 
 ---
